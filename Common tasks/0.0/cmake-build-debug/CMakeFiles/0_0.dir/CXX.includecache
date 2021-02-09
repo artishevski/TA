@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My_projects/Programming university/Theory-of-algorithms/Common tasks/0.0/Tree.cpp
+Tree.h
+D:/My_projects/Programming university/Theory-of-algorithms/Common tasks/0.0/Tree.h
+fstream
+-
+
+D:/My_projects/Programming university/Theory-of-algorithms/Common tasks/0.0/Tree.h
+string
+-
+
+D:/My_projects/Programming university/Theory-of-algorithms/Common tasks/0.0/main.cpp
+iostream
+-
+fstream
+-
+Tree.h
+D:/My_projects/Programming university/Theory-of-algorithms/Common tasks/0.0/Tree.h
+
