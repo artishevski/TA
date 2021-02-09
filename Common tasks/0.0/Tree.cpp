@@ -19,7 +19,7 @@ void Tree::addNode(int val) {
     if (root == nullptr) {
         root = new Node(val);
     } else {
-        Node *prev = getPrev(val, root);
+        Node* prev = getPrev(val, root);
         if (prev!= nullptr){
             if (val > prev->getVal()) {
                 prev->setRight(new Node(val));
