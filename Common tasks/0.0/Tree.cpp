@@ -6,7 +6,7 @@
 #include <fstream>
 
 Tree::Tree(std::string path) {
-    std::ifstream in("input.txt");
+    std::ifstream in(path);
     int temp;
     while (in) {
         in >> temp;
