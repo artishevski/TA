@@ -1,0 +1,4 @@
+"D:\Apps\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\My_projects\Programming university\Theory-of-algorithms\Individual tasks\Longest ways in tree"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/My_projects/Programming university/Theory-of-algorithms/Individual tasks/Longest ways in tree/cmake-build-debug

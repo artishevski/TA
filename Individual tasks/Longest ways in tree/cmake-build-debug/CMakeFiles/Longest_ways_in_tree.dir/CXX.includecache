@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My_projects/Programming university/Theory-of-algorithms/Individual tasks/Longest ways in tree/Tree.cpp
+Tree.h
+D:/My_projects/Programming university/Theory-of-algorithms/Individual tasks/Longest ways in tree/Tree.h
+
+D:/My_projects/Programming university/Theory-of-algorithms/Individual tasks/Longest ways in tree/Tree.h
+iostream
+-
+fstream
+-
+algorithm
+-
+
+D:/My_projects/Programming university/Theory-of-algorithms/Individual tasks/Longest ways in tree/main.cpp
+Tree.h
+D:/My_projects/Programming university/Theory-of-algorithms/Individual tasks/Longest ways in tree/Tree.h
+
